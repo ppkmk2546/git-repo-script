@@ -1,0 +1,15 @@
+.env
+.bashrc
+.zshrc
+.profile
+.DS_Store
+
+# Logs
+*.log
+*.swp
+
+# Temporary
+*.tmp
+
+# Backups
+*.bak
